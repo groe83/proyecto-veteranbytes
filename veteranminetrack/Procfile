@@ -1,0 +1,1 @@
+web: gunicorn veteranminetrack.wsgi --log-file -
